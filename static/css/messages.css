@@ -18,7 +18,7 @@
   }
   
   button {
-    cursor: pointer;
+    cursor: pointer;f
     border: none;
     background: none;
     font-family: inherit;
@@ -255,7 +255,7 @@
     border-bottom: 1px solid #e0e0e0;
   }
   
-  .conversations-header h2 {
+  .conversations-header {
     font-size: 20px;
     font-weight: 600;
     color: #1a1a1a;
